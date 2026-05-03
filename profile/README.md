@@ -32,4 +32,4 @@ Engineers and researchers. [neuralbridge.ai/careers](https://www.neuralbridge.ai
 
 ## ✉️ Contact
 
-hello@neuralbridge.ai · 169 Madison Ave, New York, NY 10016
+hello@neuralbridge.ai · 169 Madison Ave, 2529, New York, NY 10016
