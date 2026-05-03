@@ -29,6 +29,7 @@ Engineers and researchers. [neuralbridge.ai/careers](https://www.neuralbridge.ai
 - 🌐 [neuralbridge.ai](https://www.neuralbridge.ai)
 - 💼 [LinkedIn](https://www.linkedin.com/company/neural-bridge-ai)
 - 🤗 [Hugging Face](https://huggingface.co/neural-bridge)
+- 📚 [Wikidata](https://www.wikidata.org/wiki/Q139634452)
 
 ## ✉️ Contact
 
