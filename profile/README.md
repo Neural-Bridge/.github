@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Neural Bridge" width="500" />
 </p>
 
-<p align="center"><strong>AI Lab</strong></p>
+<h1 align="center">AI Lab</h1>
 
 We build proprietary AI systems and run original research for enterprises.
 
